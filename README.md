@@ -107,4 +107,4 @@ Political change was strongly influenced by geographic patterns.
 - 66 constituencies were won with less than 35% vote share.
 ### Insight
 The 2026 election was significantly more competitive than 2021.
-Data Analyst | Power BI Developer
+
