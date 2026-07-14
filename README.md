@@ -13,8 +13,9 @@ The analysis reveals that the 2026 Tamil Nadu Assembly Election was not simply a
 🎯 Headline Finding
 
 ## The 2026 Tamil Nadu Election Was a Structural Political Realignment
+
 Key Findings
-------------
+
 - Nearly 70% of constituencies changed winning parties
 - Regional strongholds shifted across Tamil Nadu
 - Average victory margins fell from 11.70% to 7.67%
@@ -25,7 +26,8 @@ Key Findings
 Power BI Dashboard
 
 🔗 https://app.powerbi.com/reportEmbed?reportId=b98cbf17-771d-4263-8c5a-7111164ed135
-    Note: The Power BI report may require Microsoft organizational access to view.
+    
+Note: The Power BI report may require Microsoft organizational access to view.
 
  Project Report
  --------------
